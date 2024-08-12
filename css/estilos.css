@@ -220,20 +220,20 @@ section.links .link-item a:hover {
 /* Para pantallas más pequeñas (smartphones en modo retrato) */
 @media (max-width: 600px) {
     section.header h1 {
-        font-size: 35px; /* Ajuste para pantallas pequeñas */
+        font-size: 28px; /* Ajuste para pantallas pequeñas */
     }
 }
 
 /* Para tablets y dispositivos móviles en modo paisaje */
 @media (min-width: 601px) and (max-width: 1024px) {
     section.header h1 {
-        font-size: 40px; /* Ajuste para tablets */
+        font-size: 32px; /* Ajuste para tablets */
     }
 }
 
 /* Para dispositivos más grandes (laptops y desktops) */
 @media (min-width: 1025px) {
     section.header h1 {
-        font-size: 50px; /* Ajuste para pantallas grandes */
+        font-size: 40px; /* Ajuste para pantallas grandes */
     }
 }
